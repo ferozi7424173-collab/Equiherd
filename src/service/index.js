@@ -1,5 +1,5 @@
 
-const baseUrl = "http://localhost:3000";
+const baseUrl = "https://equiherd.vercel.app";
 
 const getToken = () => {
     const token = localStorage.getItem("token");
